@@ -1,0 +1,1 @@
+print("Gods give power to those that pay for it.")
